@@ -1,6 +1,6 @@
 # Predicting-MBTI-Personality-through-Text-Styles
 CUAI Summer Project Repository   
-About Web Prototype: Link[https://github.com/SangRyul/Predicting-MBTI-Personality-through-Text-Styles-Web]
+About Web Prototype: [Link](https://github.com/SangRyul/Predicting-MBTI-Personality-through-Text-Styles-Web)
 
 ### 👪 Meetings
 | **Dates** | **Contents** |
