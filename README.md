@@ -26,7 +26,8 @@ Check out Presentations at [Link](https://github.com/woog2ee/Predicting-MBTI-Per
 Available at [cuaimbti.site](cuaimbti.site)   
 More Details at [Link](https://github.com/SangRyul/Predicting-MBTI-Personality-through-Text-Styles-Web)   
 
-1. Writing Input Texts
-![image](https://user-images.githubusercontent.com/80081987/131618129-2bd2f151-383d-4769-8664-58330e715fc8.png)
-2. Predicting MBTI through Text Styles
-![image](https://user-images.githubusercontent.com/80081987/131618211-d1907641-ee14-4e7e-bc07-92f3fff8dd89.png)
+#### 1. Writing Input Texts
+![image](https://user-images.githubusercontent.com/80081987/131618313-64ef2344-db51-49ca-bf80-8eeb15fff4d3.png)
+
+#### 2. Predicting MBTI through Text Styles
+![image](https://user-images.githubusercontent.com/80081987/131618372-c8e4e278-f8b9-4f34-9559-57482185bb71.png)
