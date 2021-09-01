@@ -1,7 +1,7 @@
 # Predicting-MBTI-Personality-through-Text-Styles
 CUAI 4th Summer Conference Project Repository   
-Check out Papers at [Link](https://github.com/woog2ee/Predicting-MBTI-Personality-through-Text-Styles/blob/main/CUAI%20%ED%95%98%EA%B3%84%20%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4%20Presentation%20NLP%ED%8C%80.pdf)   
-Check out Presentations at [Link](https://github.com/woog2ee/Predicting-MBTI-Personality-through-Text-Styles/blob/main/CUAI%20%ED%95%98%EA%B3%84%20%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4%20Presentation%20NLP%ED%8C%80.pdf)
+Check out Paper at [Link](https://github.com/woog2ee/Predicting-MBTI-Personality-through-Text-Styles/blob/main/CUAI%20%ED%95%98%EA%B3%84%20%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4%20Presentation%20NLP%ED%8C%80.pdf)   
+Check out Presentation at [Link](https://github.com/woog2ee/Predicting-MBTI-Personality-through-Text-Styles/blob/main/CUAI%20%ED%95%98%EA%B3%84%20%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4%20Presentation%20NLP%ED%8C%80.pdf)
 
 ## 👪 Teammates
 - **Seunguk Yu**: School of Computer Science & Engineering in CAU   
